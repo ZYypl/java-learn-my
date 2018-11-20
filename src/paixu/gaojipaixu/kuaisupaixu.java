@@ -25,8 +25,8 @@ public class kuaisupaixu {
         int pivot = array[left];// pivot 为选取的基准元素（头元素）
         while(true){
             while(i<right && array[++i] < pivot){}
-
             while(j > 0 && array[--j] > pivot){}
+
             if(i >= j){// 左右游标相遇时候停止， 所以跳出外部while循环
                 break;
             }else{

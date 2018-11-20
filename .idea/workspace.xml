@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d05aac2-013b-4aa5-852b-2032c30aa5a0" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/../StructureAlogorithm/out/" />
+    <list default="true" id="8d05aac2-013b-4aa5-852b-2032c30aa5a0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../StructureAlogorithm/src/stack/Mystack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StructureAlogorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StructureAlogorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/kuaisupaixu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/kuaisupaixu.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,24 +15,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="charupaixu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/charupaixu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kuaisupaixu.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kuaisupaixu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/kuaisupaixu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1975">
-              <caret line="79" column="2" lean-forward="true" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+            <state relative-caret-position="350">
+              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mystack.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/stack/Mystack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1544">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="33" />
               <folding>
-                <element signature="e#1274#1275#0" expanded="true" />
-                <element signature="e#1328#1329#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
+                <element signature="e#1184#1185#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,8 +60,8 @@
       <file leaf-file-name="xierpaixu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/xierpaixu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            <state relative-caret-position="475">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -70,33 +84,35 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../StructureAlogorithm" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../StructureAlogorithm/src/charupaixu.java" />
-        <option value="$PROJECT_DIR$/../StructureAlogorithm/src/xuanzepaixu.java" />
-        <option value="$PROJECT_DIR$/../StructureAlogorithm/src/maopaopaixu.java" />
-        <option value="$PROJECT_DIR$/../StructureAlogorithm/src/paixu/maopaopaixu.java" />
-        <option value="$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/希尔高级排序.java" />
-        <option value="$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/xierpaixu.java" />
-        <option value="$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/kuaisupaixu.java" />
+        <option value="$PROJECT_DIR$/src/charupaixu.java" />
+        <option value="$PROJECT_DIR$/src/xuanzepaixu.java" />
+        <option value="$PROJECT_DIR$/src/maopaopaixu.java" />
+        <option value="$PROJECT_DIR$/src/paixu/maopaopaixu.java" />
+        <option value="$PROJECT_DIR$/src/paixu/gaojipaixu/希尔高级排序.java" />
+        <option value="$PROJECT_DIR$/src/paixu/gaojipaixu/xierpaixu.java" />
+        <option value="$PROJECT_DIR$/src/paixu/gaojipaixu/kuaisupaixu.java" />
+        <option value="$PROJECT_DIR$/../StructureAlogorithm/src/stack/Mystack.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="8" />
-    <option name="y" value="23" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="94" />
+    <option name="y" value="76" />
+    <option name="width" value="1150" />
+    <option name="height" value="650" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,17 +135,19 @@
               <item name="StructureAlogorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="StructureAlogorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paixu" type="462c0819:PsiDirectoryNode" />
-              <item name="gaojipaixu" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StructureAlogorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,7 +168,7 @@
     <configuration name="xierpaixu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="paixu.gaojipaixu.xierpaixu" />
       <module name="StructureAlogorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../StructureAlogorithm" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="paixu.gaojipaixu.*" />
@@ -161,7 +179,7 @@
     <configuration name="xuanzepaixu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="paixu.xuanzepaixu" />
       <module name="StructureAlogorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../StructureAlogorithm" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -236,33 +254,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.7473525" side_tool="true" weight="0.53092784" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.7473525" side_tool="true" weight="0.5301205" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.20103092" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.2526475" weight="0.53092784" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.2526475" weight="0.53092784" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18229954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34020618" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -274,6 +293,41 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/charupaixu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/maopaopaixu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="27" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/xierpaixu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/xuanzepaixu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/kuaisupaixu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/xuanzepaixu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -290,25 +344,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/xierpaixu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="475">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/charupaixu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/paixu/gaojipaixu/kuaisupaixu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1975">
-          <caret line="79" column="2" lean-forward="true" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+        <state relative-caret-position="350">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../StructureAlogorithm/src/stack/Mystack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1544">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="33" />
           <folding>
-            <element signature="e#1274#1275#0" expanded="true" />
-            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
           </folding>
         </state>
       </provider>
